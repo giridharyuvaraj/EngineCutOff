@@ -30,7 +30,7 @@ This technology helps in:
 👨‍🎓 Team Members: Giridhar Y,Vignesh P, Tamilselvan C, Harini S 
 🎓 Guided By: Mr. Rajesh K, Assistant Professor, Department of ECE, KIOT
 
-📌 Conclusion
+📌 Conclusion :
 This project contributes to the prevention of alcohol-related road accidents by ensuring that intoxicated individuals are not allowed to operate vehicles. It delivers a proactive solution that protects drivers, passengers, and pedestrians alike.
 
 👨‍💻 Built with innovation, safety, and purpose — showcased at MAP Expo, KIOT Salem.
