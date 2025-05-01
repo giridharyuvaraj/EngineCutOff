@@ -1,7 +1,7 @@
 # EngineCutOff
 Real-Time Alcohol Detection & Auto Cut-Off Engine System 🚗
 
->> Welcome to our mini-project showcased at the 🎯 Make A Product (MAP) Expo held at Knowledge Institute of Technology (KIOT), Salem. 
+ Welcome to our mini-project showcased at the 🎯 Make A Product (MAP) Expo held at Knowledge Institute of Technology (KIOT), Salem. 
 Our system is designed to enhance road safety by preventing drunk driving through real-time detection and automatic engine shutdown.
 
 🧠 Description:
